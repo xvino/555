@@ -1,0 +1,1 @@
+https://discordapp.com/oauth2/authorize?client_id=509157189001281545&permissions=8&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Fchannels%2F433674493668491275%2F433674493668491277&scope=bot
